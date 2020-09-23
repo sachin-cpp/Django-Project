@@ -2,7 +2,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/django
 # Edit at https://www.toptal.com/developers/gitignore?templates=django
 
-### Django ###
+### Django ##
 *.log
 *.pot
 *.pyc
@@ -25,7 +25,10 @@ media
 *.so
 
 # Distribution / packaging
-.Python
+.Python   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
 build/
 develop-eggs/
 dist/
